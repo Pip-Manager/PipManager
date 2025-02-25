@@ -53,7 +53,6 @@ Pip Manager 是一个为 Python 新手设计的包管理工具，基于原生的
 * **多环境切换**
   Pip Manager 支持多环境切换，在不同项目之间灵活管理包的依赖关系。
 
-*Pip Manager 不会在安装目录之外写入任何文件，用户可以通过删除整个安装目录来完全卸载。*
 
 ### 技术栈
 
@@ -74,7 +73,11 @@ Pip Manager 是一个为 Python 新手设计的包管理工具，基于原生的
 
 - `/debug`: 在程序运行时弹出控制台窗口显示日志
 
-## 共同改进
+### 删除
+
+PipManager 会在`C:\Users\{USER}\AppData\Roaming\PipManager`位置写入配置文件，记得删除
+
+## Contribute
 
 1. Fork 该项目
 2. 提交更改
