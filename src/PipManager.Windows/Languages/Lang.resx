@@ -312,8 +312,8 @@
   <data name="Library_Operation_Install" xml:space="preserve">
     <value>Install</value>
   </data>
-  <data name="Library_Operation_Delete" xml:space="preserve">
-    <value>Delete</value>
+  <data name="Library_Operation_Uninstall" xml:space="preserve">
+    <value>Uninstall</value>
   </data>
   <data name="Library_Operation_CheckUpdate" xml:space="preserve">
     <value>Check Update</value>
@@ -794,5 +794,8 @@
   </data>
   <data name="Settings_PackageSource_UpdateIndex_Failed" xml:space="preserve">
     <value>Update index failed</value>
+  </data>
+  <data name="LibraryInstall_Operation_Remove" xml:space="preserve">
+    <value>Remove</value>
   </data>
 </root>

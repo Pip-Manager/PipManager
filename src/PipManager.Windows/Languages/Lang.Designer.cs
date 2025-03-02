@@ -924,15 +924,6 @@ namespace PipManager.Windows.Languages {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Delete.
-        /// </summary>
-        public static string Library_Operation_Delete {
-            get {
-                return ResourceManager.GetString("Library_Operation_Delete", resourceCulture);
-            }
-        }
-        
-        /// <summary>
         ///   Looks up a localized string similar to Details.
         /// </summary>
         public static string Library_Operation_Details {
@@ -956,6 +947,15 @@ namespace PipManager.Windows.Languages {
         public static string Library_Operation_Uncheck {
             get {
                 return ResourceManager.GetString("Library_Operation_Uncheck", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Uninstall.
+        /// </summary>
+        public static string Library_Operation_Uninstall {
+            get {
+                return ResourceManager.GetString("Library_Operation_Uninstall", resourceCulture);
             }
         }
         
@@ -1442,6 +1442,15 @@ namespace PipManager.Windows.Languages {
         public static string LibraryInstall_List_VersionSpecified {
             get {
                 return ResourceManager.GetString("LibraryInstall_List_VersionSpecified", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Remove.
+        /// </summary>
+        public static string LibraryInstall_Operation_Remove {
+            get {
+                return ResourceManager.GetString("LibraryInstall_Operation_Remove", resourceCulture);
             }
         }
         

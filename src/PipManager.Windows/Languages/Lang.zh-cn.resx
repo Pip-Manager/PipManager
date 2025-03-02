@@ -312,8 +312,8 @@
   <data name="Library_Operation_Install" xml:space="preserve">
     <value>安装</value>
   </data>
-  <data name="Library_Operation_Delete" xml:space="preserve">
-    <value>删除</value>
+  <data name="Library_Operation_Uninstall" xml:space="preserve">
+    <value>卸载</value>
   </data>
   <data name="Library_Operation_CheckUpdate" xml:space="preserve">
     <value>检查更新</value>
@@ -794,5 +794,8 @@
   </data>
   <data name="Settings_PackageSource_UpdateIndex_Failed" xml:space="preserve">
     <value>索引更新失败</value>
+  </data>
+  <data name="LibraryInstall_Operation_Remove" xml:space="preserve">
+    <value>移除</value>
   </data>
 </root>
