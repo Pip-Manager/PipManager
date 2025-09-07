@@ -2,8 +2,8 @@
 
 <br />
 <div align="center">
-  <a href="https://github.com/Pip-Manager/PipManager">
-    <img src="https://raw.githubusercontent.com/Pip-Manager/PipManager/refs/heads/main/src/Assets/icon.png" alt="Logo" width="80" height="80">
+  <a href="https://github.com/AuroraZiling/PipManager">
+    <img src="https://r2.pipmanager.dev/pipManager.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Pip Manager</h3>
@@ -14,11 +14,11 @@
     <a href="https://pipmanager.dev"><strong>查看文档(WIP) »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/Pip-Manager/PipManager?tab=readme-ov-file#screenshots">展示</a>
+    <a href="https://github.com/AuroraZiling/PipManager?tab=readme-ov-file#screenshots">展示</a>
     ·
-    <a href="https://github.com/Pip-Manager/PipManager/issues">报告 Bug</a>
+    <a href="https://github.com/AuroraZiling/PipManager/issues">报告 Bug</a>
     ·
-    <a href="https://github.com/Pip-Manager/PipManager/pulls">新功能请求</a>
+    <a href="https://github.com/AuroraZiling/PipManager/pulls">新功能请求</a>
   </p>
 </div>
 
@@ -30,12 +30,6 @@
 [![MIT License][license-shield]][license-url]
 
 </div>
-
----
-
-有关项目进展和计划：[PipManager Roadmap](https://github.com/Pip-Manager/PipManager/issues/3)
-
----
 
 ## 关于 Pip Manager
 
@@ -85,14 +79,14 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-[github-downloads-shield]: https://img.shields.io/github/downloads/Pip-Manager/PipManager.Wpf/total.svg?style=for-the-badge&color=blue
-[github-downloads-url]: https://github.com/Pip-Manager/PipManager.Wpf/releases
-[stars-shield]: https://img.shields.io/github/stars/Pip-Manager/PipManager.Wpf.svg?style=for-the-badge
-[stars-url]: https://github.com/Pip-Manager/PipManager.Wpf/stargazers
-[issues-shield]: https://img.shields.io/github/issues/Pip-Manager/PipManager.Wpf.svg?style=for-the-badge
-[issues-url]: https://github.com/Pip-Manager/PipManager.Wpf/issues
-[license-shield]: https://img.shields.io/github/license/Pip-Manager/PipManager.Wpf.svg?style=for-the-badge
-[license-url]: https://github.com/Pip-Manager/PipManager.Wpf/blob/master/LICENSE.txt
+[github-downloads-shield]: https://img.shields.io/github/downloads/AuroraZiling/PipManager.Wpf/total.svg?style=for-the-badge&color=blue
+[github-downloads-url]: https://github.com/AuroraZiling/PipManager.Wpf/releases
+[stars-shield]: https://img.shields.io/github/stars/AuroraZiling/PipManager.Wpf.svg?style=for-the-badge
+[stars-url]: https://github.com/AuroraZiling/PipManager.Wpf/stargazers
+[issues-shield]: https://img.shields.io/github/issues/AuroraZiling/PipManager.Wpf.svg?style=for-the-badge
+[issues-url]: https://github.com/AuroraZiling/PipManager.Wpf/issues
+[license-shield]: https://img.shields.io/github/license/AuroraZiling/PipManager.Wpf.svg?style=for-the-badge
+[license-url]: https://github.com/AuroraZiling/PipManager.Wpf/blob/master/LICENSE.txt
 [screenshot]: images/screenshot.png
 [.NET Core]: https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white
 [.NET-url]: https://dotnet.microsoft.com/
